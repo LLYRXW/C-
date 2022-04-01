@@ -1,0 +1,2 @@
+C:\Users\Lawliet\Desktop\C\hello world\x64\Debug\hello world.exe.lastcodeanalysissucceeded
+C:\Users\Lawliet\Desktop\C\hello world\hello world\x64\Debug\NativeCodeAnalysis.read.1.tlog
